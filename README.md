@@ -11,3 +11,9 @@ Installation
 -----------
 
 Drop it in your `~/.cmus/` then load it using `:colorscheme yowish`.
+
+License
+--------
+
+MIT
+
